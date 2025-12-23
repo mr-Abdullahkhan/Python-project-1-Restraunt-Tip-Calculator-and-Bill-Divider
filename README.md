@@ -56,6 +56,7 @@ This project helped me practice Python basics such as user input, variables, cal
     Each person should pay: 550
     
 =============================================================================================
+
 🎯 What I Learned
 
 * Taking user input in Python

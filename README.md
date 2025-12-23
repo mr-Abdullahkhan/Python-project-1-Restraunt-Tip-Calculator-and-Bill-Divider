@@ -19,7 +19,7 @@ It then:
 
 * Calculates the tip
 
-* Adds it to the bill
+* Adds it to the bill`
 
 * Divides the total amount fairly among all people
 
@@ -92,14 +92,4 @@ This project marks my first step into Python programming, and I’m excited to b
 
 =============================================================================================
 
-If you want, I can:
 
-* Make it more professional
-
-* Rewrite it for a portfolio
-
-* Add badges and formatting
-
-* Or tailor it for college applications
-
-Just tell me 👍
